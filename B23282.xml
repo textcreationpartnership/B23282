@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full and true relation of the murther of Doctor Urthwait, Archdeacon of the Isle of Man; who in an inhuman and barbarous manner, cut his own throat, in Curriers-Hall-Court, within Criple-Gate, on wednesday the twentieth of this instant December; with several other circumstances thereunto appertaining.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23282</idno><idno type="EEBO-CITATION">99886890</idno>
+  <idno type="VID">189620</idno>
+  <idno type="EEBO-PROQUEST">2248538553</idno>
+  
+            <idno type="STC">Wing F2327</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[126]</idno>
+            <idno type="STC">ESTC R226743</idno>
+            <idno type="PROQUEST">ocm99886890</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886890e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189620)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[127])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full and true relation of the murther of Doctor Urthwait, Archdeacon of the Isle of Man; who in an inhuman and barbarous manner, cut his own throat, in Curriers-Hall-Court, within Criple-Gate, on wednesday the twentieth of this instant December; with several other circumstances thereunto appertaining.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.;</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Urthwait's landlady found him dead by his own hand 19 Dec. 1688.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Urthwait, William, d. 1688. --  Early works to 1800.</term>
+               <term type="topical_term">Suicide victims --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:189620:1"/>
+            <pb n="1" facs="tcp:189620:1"/>
+            <head>A Full and True Relation of the MURTHER OF Doctor Urthwait, Archdeacon of the ISLE of <hi>MAN;</hi> WHO In an Inhuman and Barbarous manner, cut his own Throat, in <hi>Curriers-Hall-Court,</hi> within <hi>Criple-Gate,</hi> on <hi>Wednesday</hi> the twentieth of this instant <hi>Decem<g ref="char:EOLhyphen"/>ber;</hi> with several other Circumstances thereunto appertaining.</head>
+            <p>GOD gave unto Man an Upright Heart and that full of Wisdom and Knowledge; and in likeness to himself, be<g ref="char:EOLhyphen"/>yond all other Creatures he made; but as he made Man, so likewise made he the Devil; to try his People, especi<g ref="char:EOLhyphen"/>ally those whom he hath called to be the Ministers of his Gospel, to throughly purge them, they having the Care of many Souls: But by the Instigation of the Devil, Wordly Gain and Honour, are often led away, as by the sequel of this will appear, by one Doctor <hi>William Ʋrthwait,</hi> Archdeacon of <hi>Man,</hi> and sometimes Tutor to the Earl of <hi>Darby</hi>'s Family; who was in a Place of great Trust (for Man's Salvation): But more regarding the Times than the Souls of his Hearers (supposed to be leaning to the Church of <hi>Rome,</hi> as may more plainly appear) but the Alteration now that is much reflecting upon him, and the mispent Time, caused a sudden Desparation in him to lay Violent Hands upon himself, a Crime odious to God and Man. I advise all, whose Study is wholly to Out-vie by loqua<g ref="char:EOLhyphen"/>sity, those of his Equals, and strain that of his Gown to what his Humor led him, seeming to Out-vie those of his Station; and his far-fetch't Ar<g ref="char:EOLhyphen"/>guments and rationality to that of Time-serving; but that Divine Justice often overtakes such Barely-Gowned Men in their own Arguments and brings them to a signal Demonstration of Divine Justice upon them; is visible by this following Relation.</p>
+            <pb facs="tcp:189620:2"/>
+            <pb n="2" facs="tcp:189620:2"/>
+            <p>On <hi>Wednesday</hi> the Nineteenth of <hi>December,</hi> 1688. one Dr. <hi>Ʋrthwait,</hi> Archdeacon of <hi>Man,</hi> came to Lodge at one Mrs. <hi>Wilds,</hi> a Widow, in <hi>Curriers-Hall-Court,</hi> near <hi>Cripplegate,</hi> and that Night was seemingly much pleased with his Lodging, in so much, that he commended the Air, <hi>&amp;c.</hi> And having removed from his former Lodging, as supposed to avoid the Rabble, asked, If the Rable were Quell'd; a Lodger in the aforesaid House an<g ref="char:EOLhyphen"/>swered, <hi>It was</hi> (as he believed): He Replied, If they were not, and came into the Court, it was impossible to make his Escape out; a little after he went very chearfully to Red, the next day, about Noon, Mrs. <hi>Wild,</hi> his Landlady, heard him walking about the Room (from thence till Candle<g ref="char:EOLhyphen"/>light) hearing nothing of him, went up Stairs, and often calling to him, but no answer being made, the Landlady, Mrs. <hi>Wild,</hi> immediately sent for a Constable and some Neighbours, who broak open the Door, and found the said Doctor in Bed, as fallen from a sitting Posture, a Razor and Pen-Knife both Bloody by him upon the Bed, his Head lying against the Beads-head board, with his Britches underneath his Head, with a Guinea, and fourteen Shillings in Silver, with some Farthings, with his Throat Cut in a most Inhumane and Barbarous manner, the Orifice being three or four Inches long, and a considerable Depth, but the Body not cold; In the Chamber were several Papers torn and thrown about the Room.</p>
+            <p>On <hi>Friday</hi> the twenty first of this instant <hi>December,</hi> the Coronor having assembled a Jury of substantial Citizens, as is usual upon such Occasions; and having made a strict Scrutiny, as became so judicious a Convention, and the Witnesses by most incontrolable Circumstances, made apparent, That his former Disputations, Argumentive Silogisms, and Time-serving Equivocations, which he endeavoured to prove; and his other Inclinations to that Party, had rendred him odious, as he supo<g ref="char:EOLhyphen"/>sed, to the Mobile, and brought him to that of Despair, and rendred him to the Jury, <hi>Non compus Mentis.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
